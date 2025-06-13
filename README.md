@@ -3,11 +3,11 @@
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=mr-mishr4&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/mr-mishr4?color=971901&logo=githubb&label=FOLLOWERS"/>
 
-<h1> Hello World! 👋 </h1>
+<h1>Namaste, World! 🙏🌏</h1>
 
 <br>
 
-<img src="IMG/my-image.png" width="150">
+<img src="assents/sharad_graduation_animated.png" width="150">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-2870201b4/) and welcome to my GitHub profile! :octocat:
