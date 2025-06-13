@@ -85,22 +85,19 @@
 
 ## 🏢 Organization Contributions
 
-### Anchanto (2025)
+### Anchanto (2022-2025)
 <div align="center">
   <img src="assets/anchanto_2025.png" alt="Anchanto Contributions 2025" width="800"/>
 </div>
 
-### Anchanto (2024)
 <div align="center">
   <img src="assets/anchanto_2024.png" alt="Anchanto Contributions 2024" width="800"/>
 </div>
 
-### Anchanto (2023)
 <div align="center">
   <img src="assets/anchanto_2023.png" alt="Anchanto Contributions 2023" width="800"/>
 </div>
 
-### Anchanto (2022)
 <div align="center">
   <img src="assets/anchanto_2022.png" alt="Anchanto Contributions 2022" width="800"/>
 </div>
