@@ -10,7 +10,7 @@
 <img src="IMG/my-image.png" width="150">
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra/) and welcome to my GitHub profile! :octocat:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-2870201b4/) and welcome to my GitHub profile! :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Senior+Data+Engineer%2C+;Building+Scalable+Data+Platforms;+and+Cloud+Architect!)](https://git.io/typing-svg)
 
@@ -54,7 +54,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_spark-icon.svg" alt="Spark" height="50" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
-<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/airflow.png" alt="Airflow" height="50" /></a>
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Airflow" height="50" /></a>
 <a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dbt.png" alt="DBT" height="50" /></a>
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/streamlit.png" alt="Streamlit" height="50" /></a>
 </div>
