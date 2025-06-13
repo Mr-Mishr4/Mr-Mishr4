@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="assents/sharad_graduation_animated.png" width="150">
+<img src="assets/sharad_graduation_animated.png" width="150">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-2870201b4/) and welcome to my GitHub profile! :octocat:
