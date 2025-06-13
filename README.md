@@ -15,8 +15,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Senior+Data+Engineer%2C+;Building+Scalable+Data+Platforms;+and+Cloud+Architect!)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/mr-mishr4?label=Follow&style=social)](https://github.com/mr-mishr4/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sharad.mishra-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sharad.mishra@gmail.com)](mailto:sharad.mishra@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sharad-mishra/)](https://www.linkedin.com/in/sharad-mishra/)
+[![Gmail Badge](https://img.shields.io/badge/-sharad.mishra-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sharad.mishra@gmail.com)](mailto:mr.mishr4@outlook.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sharad-mishra/)](https://www.linkedin.com/in/sharad-mishra-2870201b4/)
 
 <br>
 
@@ -103,7 +103,7 @@
 </div>
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharad-mishra/) - Professional Profile
+- [LinkedIn](https://www.linkedin.com/in/sharad-mishra-2870201b4/) - Professional Profile
 - [Portfolio](https://your-portfolio-url.com) - Your Portfolio Website
 - [Blog](https://your-blog-url.com) - Your Technical Blog
 - [Email](mailto:sharad.mishra@gmail.com) - Get in Touch
