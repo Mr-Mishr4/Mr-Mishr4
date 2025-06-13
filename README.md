@@ -52,12 +52,14 @@
 ### Data Engineering & Tools
 <div align="center">
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="50" /></a>
-<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="50" /></a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" height="50" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airflow" height="50" /></a>
 <a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="assets/dbt-logo.svg" alt="DBT" height="50" /></a>
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.snowflake.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="50" /></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="BigData" height="50" /></a>
 </div>
 
 ### Cloud & DevOps
