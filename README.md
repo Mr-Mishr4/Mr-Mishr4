@@ -82,12 +82,22 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mishr4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mishr4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Mishr4&theme=dark" alt="GitHub Profile Details" width="400" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mishr4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" height="195" />
 </div>
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mishr4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div> -->
+
+## 📈 GitHub Overview Dashboard
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Mishr4&theme=dark" alt="GitHub Profile Details" />
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=69107928" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69107928&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Mr-Mishr4" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69107928&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 </div>
 
 ## 🏢 Organization Contributions
@@ -110,7 +120,9 @@
 </div>
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharad-mishra-2870201b4/) - Professional Profile
-- [Portfolio](https://your-portfolio-url.com) - Your Portfolio Website
-- [Blog](https://your-blog-url.com) - Your Technical Blog
-- [Email](mailto:sharad.mishra@gmail.com) - Get in Touch
+- 💼 **LinkedIn**: [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-4b0b0b0b/)
+- 📧 **Email**: sharad.mishra@example.com
+- 🌐 **Portfolio**: [sharadmishra.com](https://sharadmishra.com)
+- 📝 **Medium**: [@sharadmishra](https://medium.com/@sharadmishra)
+- 📝 **Hashnode**: [hashnode.com/@sharadmishra](https://hashnode.com/@sharadmishra)
+- 🌐 **Linktree**: [@sharadmishra](https://linktr.ee/sharadmishra)
