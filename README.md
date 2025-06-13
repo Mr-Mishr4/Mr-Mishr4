@@ -83,6 +83,23 @@
 ## 📊 GitHub Stats
 ![Metrics](/github-metrics.svg)
 
+## 🏢 Organization Contributions
+
+### Organization 1
+<div align="center">
+  <img src="assets/org1-contributions.png" alt="Organization 1 Contributions" width="800"/>
+</div>
+
+### Organization 2
+<div align="center">
+  <img src="assets/org2-contributions.png" alt="Organization 2 Contributions" width="800"/>
+</div>
+
+### Organization 3
+<div align="center">
+  <img src="assets/org3-contributions.png" alt="Organization 3 Contributions" width="800"/>
+</div>
+
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sharad-mishra/) - Professional Profile
 - [Portfolio](https://your-portfolio-url.com) - Your Portfolio Website
