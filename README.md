@@ -55,7 +55,7 @@
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="50" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airflow" height="50" /></a>
-<a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="assets/dbt-logo.png" alt="DBT" height="50" /></a>
+<a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="assets/dbt-logo.svg" alt="DBT" height="50" /></a>
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 </div>
