@@ -44,34 +44,35 @@
 
 ### Programming Languages
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.w3schools.com/sql/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" height="50" /></a>  
 </div>
 
 ### Data Engineering & Tools
 <div align="center">
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>
-<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_spark-icon.svg" alt="Spark" height="50" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
-<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Airflow" height="50" /></a>
-<a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dbt.png" alt="DBT" height="50" /></a>
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/streamlit.png" alt="Streamlit" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="50" /></a>
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="50" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airflow" height="50" /></a>
+<a href="https://www.getdbt.com/" target="_blank"><img style="margin: 10px" src="assets/dbt-logo.png" alt="DBT" height="50" /></a>
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 </div>
 
 ### Cloud & DevOps
 <div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="50" /></a>
 </div>
 
 ### Testing & Others
 <div align="center">
-<a href="https://docs.pytest.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytest.png" alt="Pytest" height="50" /></a>
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman.png" alt="Postman" height="50" /></a>
+<a href="https://docs.pytest.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="Pytest" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
 </div>
 </div>
 
