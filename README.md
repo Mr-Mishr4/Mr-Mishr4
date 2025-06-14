@@ -121,8 +121,4 @@
 
 ## 🔗 Connect with Me
 - 💼 **LinkedIn**: [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-4b0b0b0b/)
-- 📧 **Email**: sharad.mishra@example.com
-- 🌐 **Portfolio**: [sharadmishra.com](https://sharadmishra.com)
-- 📝 **Medium**: [@sharadmishra](https://medium.com/@sharadmishra)
-- 📝 **Hashnode**: [hashnode.com/@sharadmishra](https://hashnode.com/@sharadmishra)
-- 🌐 **Linktree**: [@sharadmishra](https://linktr.ee/sharadmishra)
+- 📧 **Email**: [mr.mishr4@outlook.com](mr.mishr4@outlook.com) 
