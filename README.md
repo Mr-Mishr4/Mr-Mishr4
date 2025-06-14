@@ -120,5 +120,5 @@
 </div>
 
 ## 🔗 Connect with Me
-- 💼 **LinkedIn**: [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-4b0b0b0b/)
-- 📧 **Email**: [mr.mishr4@outlook.com](mr.mishr4@outlook.com) 
+- 💼 **LinkedIn**: [Sharad Mishra](https://www.linkedin.com/in/sharad-mishra-2870201b4/)
+- 📧 **Email**: [mr.mishr4@outlook.com](mr.mishr4@outlook.com)
